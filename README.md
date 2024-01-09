@@ -44,3 +44,5 @@
 </div>
 
 ###
+
+![snake animation](https://github.com/moloyo/moloyo/blob/output/github-contribution-grid-snake2.svg)
