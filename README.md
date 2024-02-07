@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Joaquin García and I'm a Developer, from Argentina and living in Barcelona</p>
+<p align="left">My name is Joaquin García and I'm a Developer, from Argentina living in Barcelona</p>
 
 ###
 
